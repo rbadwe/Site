@@ -1,13 +1,13 @@
 ---
 title: "Imagesteganography"
 date: 2021-02-03T20:24:44+05:30
-slug: ""
-description: ""
-keywords: []
-draft: true
+slug: "hiding another image inside an image"
+description: "hiding another image inside an image"
+keywords: ["image processing ",cryptography" , "privacy"]
+draft: false
 tags: []
 math: false
-toc: false
+toc: true
 ---
 
 
