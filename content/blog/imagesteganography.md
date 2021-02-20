@@ -33,4 +33,4 @@ Cryptography hides the contents of a secret message from a malicious people, whe
 In cryptography, the system is broken when the attacker can read the secret message.
 Breaking a steganography system need the attacker to detect that steganography has been used.
 
-![cityscapes](./images/0_4MwjJ0h5XXPJweoK.png)
+![cityscapes](/blog/images/city.png)

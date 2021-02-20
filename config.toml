@@ -70,4 +70,10 @@ copyright = "© {2021}"
   url = "/blog"
 
 
+[[menu.main]]
+  identifier = "resume"
+  name = "resume"
+  title = "resume"
+  url = "/blog/Rohan_resume.pdf"
+
 
