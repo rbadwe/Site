@@ -6,7 +6,7 @@
 # Override these settings with your own
 title = "Rohan Badwe"
 languageCode = "en-us"
-baseURL = "https://www.rbadwe.github.io"
+baseURL = "https://rbadwe.github.io"
 copyright = "© {2021}"
 
 # Add your Disqus shortname here.
