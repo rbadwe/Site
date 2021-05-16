@@ -1,5 +1,6 @@
 ---
-heading: "Hi, I'm Rohan Badwe"
-subheading: "I'm passionate about programming , Computer Science and currently pursuing Computer Engineering at VIT pune ( Pune University ) "
-handle: "rbadwe"
+heading: "Hi, I'm Rohan"
+subheading: " Welcome to my space on the internet. For now its just a few blogs and resume 
+.. more comming soon "
+handle: "r_badwe"
 ---
