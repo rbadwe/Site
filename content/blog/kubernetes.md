@@ -33,7 +33,7 @@ A service is an abstraction over the pods, and essentially, the only interface t
 ## v.Nodes
 A Kubernetes node manages and runs pods; it’s the machine (whether virtualized or physical) that performs the given work.
 The Kubernetes control plane
-The Kubernetes control plane is the main entry point for administrators and users to manage the various nodes.
+The Kubernetes control plane is the main entry point for admins and users to manage the various nodes.
 The control plane includes
 API server
 Scheduler
