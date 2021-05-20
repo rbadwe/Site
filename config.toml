@@ -24,7 +24,7 @@ copyright = "© {2021}"
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
   #twitter = "https://twitter.com/<your handle>"
   github = "https://github.com/rbadwe"
-  email = "mailto:rb.badwe@gmail.com"
+  email = "mailto:contact@rohanb.me"
   # mastodon = "https://mastodon.social/@nickname"
   # facebook = "https://facebook.com/<your handle>"
   # gitlab = "https://gitlab.com/<your handle>"
@@ -74,6 +74,6 @@ copyright = "© {2021}"
   identifier = "resume"
   name = "resume"
   title = "resume"
-  url = "/blog/rohan_resume.pdf"
+  url = "/blog/resume.pdf"
 
 
